@@ -1,3 +1,3 @@
-# Service
+# Hello-Campus Web Service
 
-Includes code and information for the database.
+To include code and information for the database and web service.
